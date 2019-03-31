@@ -32,7 +32,7 @@
      inkscape:cx="2048"
      inkscape:cy="2048"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg8"
      showgrid="false"
      units="px"
      inkscape:window-width="2560"
@@ -59,14 +59,14 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="Esamir-4096.jpg"
+       sodipodi:absref="D:\Games\PlanetSide 2\=Maps\planetside-maps.git\Esamir-4096.jpg"
        xlink:href="Esamir-4096.jpg"
-       width="4096"
-       height="4096"
-       preserveAspectRatio="none"
-       id="image18"
+       y="0"
        x="0"
-       y="0" />
+       id="image18"
+       preserveAspectRatio="none"
+       height="4096"
+       width="4096" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -251,5 +251,11 @@
      id="path4539-8-88"
      cx="2999.0994"
      cy="3297.4836"
+     r="19.929533" />
+  <circle
+     style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4539-8-81-5"
+     cx="2333.6689"
+     cy="2665.9602"
      r="19.929533" />
 </svg>
